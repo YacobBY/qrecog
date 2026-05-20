@@ -1,0 +1,2107 @@
+{
+  "3": {
+    "status": "ok",
+    "n_verses": 200,
+    "n_boundaries": 199,
+    "n_silences_after_filter": 391,
+    "n_flags": 119,
+    "flags": [
+      {
+        "between_verses": [
+          "3:4",
+          "3:5"
+        ],
+        "api_boundary_ms": 56600,
+        "ffmpeg_silence_idx_for_this_boundary": 5,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          56174,
+          56922
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          40034,
+          49769
+        ],
+        "diagnosis": "between API verse 3:4 and 3:5, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:7",
+          "3:8"
+        ],
+        "api_boundary_ms": 140240,
+        "ffmpeg_silence_idx_for_this_boundary": 11,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          139927,
+          140662
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          98426,
+          114859,
+          122317
+        ],
+        "diagnosis": "between API verse 3:7 and 3:8, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:8",
+          "3:9"
+        ],
+        "api_boundary_ms": 155550,
+        "ffmpeg_silence_idx_for_this_boundary": 13,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          155270,
+          155846
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          149654
+        ],
+        "diagnosis": "between API verse 3:8 and 3:9, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:9",
+          "3:10"
+        ],
+        "api_boundary_ms": 171200,
+        "ffmpeg_silence_idx_for_this_boundary": 15,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          170817,
+          171532
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          164997
+        ],
+        "diagnosis": "between API verse 3:9 and 3:10, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:11",
+          "3:12"
+        ],
+        "api_boundary_ms": 207690,
+        "ffmpeg_silence_idx_for_this_boundary": 18,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          207275,
+          207980
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          196458,
+          202835
+        ],
+        "diagnosis": "between API verse 3:11 and 3:12, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:12",
+          "3:13"
+        ],
+        "api_boundary_ms": 219290,
+        "ffmpeg_silence_idx_for_this_boundary": 20,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          219025,
+          219715
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          215386
+        ],
+        "diagnosis": "between API verse 3:12 and 3:13, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:13",
+          "3:14"
+        ],
+        "api_boundary_ms": 251840,
+        "ffmpeg_silence_idx_for_this_boundary": 23,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          251403,
+          252094
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          237936,
+          244756
+        ],
+        "diagnosis": "between API verse 3:13 and 3:14, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:14",
+          "3:15"
+        ],
+        "api_boundary_ms": 283500,
+        "ffmpeg_silence_idx_for_this_boundary": 26,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          283032,
+          283866
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          268624,
+          273751
+        ],
+        "diagnosis": "between API verse 3:14 and 3:15, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:15",
+          "3:16"
+        ],
+        "api_boundary_ms": 315080,
+        "ffmpeg_silence_idx_for_this_boundary": 29,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          314996,
+          315412
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          289525,
+          309194
+        ],
+        "diagnosis": "between API verse 3:15 and 3:16, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:18",
+          "3:19"
+        ],
+        "api_boundary_ms": 365420,
+        "ffmpeg_silence_idx_for_this_boundary": 33,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          364868,
+          365727
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          357400
+        ],
+        "diagnosis": "between API verse 3:18 and 3:19, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:19",
+          "3:20"
+        ],
+        "api_boundary_ms": 394290,
+        "ffmpeg_silence_idx_for_this_boundary": 35,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          393810,
+          394621
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          384460
+        ],
+        "diagnosis": "between API verse 3:19 and 3:20, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:20",
+          "3:21"
+        ],
+        "api_boundary_ms": 429190,
+        "ffmpeg_silence_idx_for_this_boundary": 39,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          428739,
+          429444
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          405638,
+          413137,
+          423256
+        ],
+        "diagnosis": "between API verse 3:20 and 3:21, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:24",
+          "3:25"
+        ],
+        "api_boundary_ms": 505910,
+        "ffmpeg_silence_idx_for_this_boundary": 44,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          505462,
+          506274
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          498646
+        ],
+        "diagnosis": "between API verse 3:24 and 3:25, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:26",
+          "3:27"
+        ],
+        "api_boundary_ms": 556350,
+        "ffmpeg_silence_idx_for_this_boundary": 48,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          555990,
+          556831
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          538573,
+          549990
+        ],
+        "diagnosis": "between API verse 3:26 and 3:27, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:27",
+          "3:28"
+        ],
+        "api_boundary_ms": 578290,
+        "ffmpeg_silence_idx_for_this_boundary": 50,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          578059,
+          578520
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          569184
+        ],
+        "diagnosis": "between API verse 3:27 and 3:28, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:28",
+          "3:29"
+        ],
+        "api_boundary_ms": 612250,
+        "ffmpeg_silence_idx_for_this_boundary": 54,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          611906,
+          612543
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          589903,
+          603819,
+          607554
+        ],
+        "diagnosis": "between API verse 3:28 and 3:29, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:29",
+          "3:30"
+        ],
+        "api_boundary_ms": 633250,
+        "ffmpeg_silence_idx_for_this_boundary": 57,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          632865,
+          633592
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          621514,
+          626435
+        ],
+        "diagnosis": "between API verse 3:29 and 3:30, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:30",
+          "3:31"
+        ],
+        "api_boundary_ms": 663870,
+        "ffmpeg_silence_idx_for_this_boundary": 60,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          663384,
+          664102
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          654044,
+          657789
+        ],
+        "diagnosis": "between API verse 3:30 and 3:31, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:31",
+          "3:32"
+        ],
+        "api_boundary_ms": 679860,
+        "ffmpeg_silence_idx_for_this_boundary": 62,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          679496,
+          680224
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          675196
+        ],
+        "diagnosis": "between API verse 3:31 and 3:32, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:34",
+          "3:35"
+        ],
+        "api_boundary_ms": 714840,
+        "ffmpeg_silence_idx_for_this_boundary": 66,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          714310,
+          715068
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          709973
+        ],
+        "diagnosis": "between API verse 3:34 and 3:35, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:36",
+          "3:37"
+        ],
+        "api_boundary_ms": 764190,
+        "ffmpeg_silence_idx_for_this_boundary": 69,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          763800,
+          764501
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          749610
+        ],
+        "diagnosis": "between API verse 3:36 and 3:37, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:37",
+          "3:38"
+        ],
+        "api_boundary_ms": 802750,
+        "ffmpeg_silence_idx_for_this_boundary": 71,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          802386,
+          803109
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          789343
+        ],
+        "diagnosis": "between API verse 3:37 and 3:38, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:39",
+          "3:40"
+        ],
+        "api_boundary_ms": 852720,
+        "ffmpeg_silence_idx_for_this_boundary": 74,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          852309,
+          853077
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          839850
+        ],
+        "diagnosis": "between API verse 3:39 and 3:40, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:40",
+          "3:41"
+        ],
+        "api_boundary_ms": 869120,
+        "ffmpeg_silence_idx_for_this_boundary": 76,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          868624,
+          869386
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          862395
+        ],
+        "diagnosis": "between API verse 3:40 and 3:41, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:41",
+          "3:42"
+        ],
+        "api_boundary_ms": 891530,
+        "ffmpeg_silence_idx_for_this_boundary": 79,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          891098,
+          891872
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          874152,
+          883069
+        ],
+        "diagnosis": "between API verse 3:41 and 3:42, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:44",
+          "3:45"
+        ],
+        "api_boundary_ms": 940690,
+        "ffmpeg_silence_idx_for_this_boundary": 83,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          940148,
+          940897
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          926080
+        ],
+        "diagnosis": "between API verse 3:44 and 3:45, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:45",
+          "3:46"
+        ],
+        "api_boundary_ms": 966500,
+        "ffmpeg_silence_idx_for_this_boundary": 85,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          966129,
+          966923
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          958110
+        ],
+        "diagnosis": "between API verse 3:45 and 3:46, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:47",
+          "3:48"
+        ],
+        "api_boundary_ms": 1000930,
+        "ffmpeg_silence_idx_for_this_boundary": 89,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1000437,
+          1001152
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          982945,
+          989288
+        ],
+        "diagnosis": "between API verse 3:47 and 3:48, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:49",
+          "3:50"
+        ],
+        "api_boundary_ms": 1068830,
+        "ffmpeg_silence_idx_for_this_boundary": 95,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1068348,
+          1069172
+        ],
+        "n_silences_skipped": 4,
+        "skipped_silence_centers_ms": [
+          1034310,
+          1042351,
+          1050629,
+          1058703
+        ],
+        "diagnosis": "between API verse 3:49 and 3:50, ffmpeg saw 4 extra inter-verse silence(s) that the API did not account for -- API likely merged 4 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:50",
+          "3:51"
+        ],
+        "api_boundary_ms": 1089310,
+        "ffmpeg_silence_idx_for_this_boundary": 97,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1088897,
+          1089673
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1079633
+        ],
+        "diagnosis": "between API verse 3:50 and 3:51, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:51",
+          "3:52"
+        ],
+        "api_boundary_ms": 1102140,
+        "ffmpeg_silence_idx_for_this_boundary": 99,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1101738,
+          1102610
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1096285
+        ],
+        "diagnosis": "between API verse 3:51 and 3:52, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:52",
+          "3:53"
+        ],
+        "api_boundary_ms": 1128550,
+        "ffmpeg_silence_idx_for_this_boundary": 101,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1128003,
+          1128718
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1115559
+        ],
+        "diagnosis": "between API verse 3:52 and 3:53, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:55",
+          "3:56"
+        ],
+        "api_boundary_ms": 1187430,
+        "ffmpeg_silence_idx_for_this_boundary": 106,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1186884,
+          1187696
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          1162885,
+          1176080
+        ],
+        "diagnosis": "between API verse 3:55 and 3:56, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:57",
+          "3:58"
+        ],
+        "api_boundary_ms": 1216790,
+        "ffmpeg_silence_idx_for_this_boundary": 109,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1216330,
+          1217065
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1211268
+        ],
+        "diagnosis": "between API verse 3:57 and 3:58, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:61",
+          "3:62"
+        ],
+        "api_boundary_ms": 1288780,
+        "ffmpeg_silence_idx_for_this_boundary": 115,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1288362,
+          1289109
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          1259847,
+          1280354
+        ],
+        "diagnosis": "between API verse 3:61 and 3:62, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:62",
+          "3:63"
+        ],
+        "api_boundary_ms": 1306050,
+        "ffmpeg_silence_idx_for_this_boundary": 119,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1305644,
+          1306472
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          1292959,
+          1293865,
+          1299270
+        ],
+        "diagnosis": "between API verse 3:62 and 3:63, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:64",
+          "3:65"
+        ],
+        "api_boundary_ms": 1354840,
+        "ffmpeg_silence_idx_for_this_boundary": 123,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1354293,
+          1355066
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          1337999,
+          1346787
+        ],
+        "diagnosis": "between API verse 3:64 and 3:65, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:65",
+          "3:66"
+        ],
+        "api_boundary_ms": 1378400,
+        "ffmpeg_silence_idx_for_this_boundary": 125,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1377934,
+          1378750
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1374269
+        ],
+        "diagnosis": "between API verse 3:65 and 3:66, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:66",
+          "3:67"
+        ],
+        "api_boundary_ms": 1405250,
+        "ffmpeg_silence_idx_for_this_boundary": 127,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1404663,
+          1405600
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1398249
+        ],
+        "diagnosis": "between API verse 3:66 and 3:67, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:68",
+          "3:69"
+        ],
+        "api_boundary_ms": 1437830,
+        "ffmpeg_silence_idx_for_this_boundary": 130,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1437538,
+          1438075
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1432833
+        ],
+        "diagnosis": "between API verse 3:68 and 3:69, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:72",
+          "3:73"
+        ],
+        "api_boundary_ms": 1506350,
+        "ffmpeg_silence_idx_for_this_boundary": 135,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1505968,
+          1506731
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1498286
+        ],
+        "diagnosis": "between API verse 3:72 and 3:73, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:73",
+          "3:74"
+        ],
+        "api_boundary_ms": 1549140,
+        "ffmpeg_silence_idx_for_this_boundary": 139,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1548608,
+          1549418
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          1518164,
+          1536047,
+          1544080
+        ],
+        "diagnosis": "between API verse 3:73 and 3:74, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:74",
+          "3:75"
+        ],
+        "api_boundary_ms": 1560240,
+        "ffmpeg_silence_idx_for_this_boundary": 141,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1559702,
+          1560564
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1555022
+        ],
+        "diagnosis": "between API verse 3:74 and 3:75, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:75",
+          "3:76"
+        ],
+        "api_boundary_ms": 1600990,
+        "ffmpeg_silence_idx_for_this_boundary": 143,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1600549,
+          1601342
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1585424
+        ],
+        "diagnosis": "between API verse 3:75 and 3:76, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:77",
+          "3:78"
+        ],
+        "api_boundary_ms": 1647830,
+        "ffmpeg_silence_idx_for_this_boundary": 146,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1647320,
+          1648145
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1633557
+        ],
+        "diagnosis": "between API verse 3:77 and 3:78, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:78",
+          "3:79"
+        ],
+        "api_boundary_ms": 1680850,
+        "ffmpeg_silence_idx_for_this_boundary": 148,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1680420,
+          1681267
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1666427
+        ],
+        "diagnosis": "between API verse 3:78 and 3:79, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:79",
+          "3:80"
+        ],
+        "api_boundary_ms": 1717450,
+        "ffmpeg_silence_idx_for_this_boundary": 150,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1717050,
+          1717824
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1702863
+        ],
+        "diagnosis": "between API verse 3:79 and 3:80, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:81",
+          "3:82"
+        ],
+        "api_boundary_ms": 1780400,
+        "ffmpeg_silence_idx_for_this_boundary": 154,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1779875,
+          1780804
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          1762755,
+          1769089
+        ],
+        "diagnosis": "between API verse 3:81 and 3:82, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:84",
+          "3:85"
+        ],
+        "api_boundary_ms": 1852580,
+        "ffmpeg_silence_idx_for_this_boundary": 159,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1852113,
+          1852911
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          1827154,
+          1840905
+        ],
+        "diagnosis": "between API verse 3:84 and 3:85, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:86",
+          "3:87"
+        ],
+        "api_boundary_ms": 1890150,
+        "ffmpeg_silence_idx_for_this_boundary": 162,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1889574,
+          1890412
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1883817
+        ],
+        "diagnosis": "between API verse 3:86 and 3:87, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:91",
+          "3:92"
+        ],
+        "api_boundary_ms": 1973030,
+        "ffmpeg_silence_idx_for_this_boundary": 168,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1972406,
+          1973267
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1962262
+        ],
+        "diagnosis": "between API verse 3:91 and 3:92, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:92",
+          "3:93"
+        ],
+        "api_boundary_ms": 1992280,
+        "ffmpeg_silence_idx_for_this_boundary": 170,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          1991635,
+          1992475
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          1982044
+        ],
+        "diagnosis": "between API verse 3:92 and 3:93, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:93",
+          "3:94"
+        ],
+        "api_boundary_ms": 2022970,
+        "ffmpeg_silence_idx_for_this_boundary": 172,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2022530,
+          2023423
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2012114
+        ],
+        "diagnosis": "between API verse 3:93 and 3:94, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:95",
+          "3:96"
+        ],
+        "api_boundary_ms": 2048880,
+        "ffmpeg_silence_idx_for_this_boundary": 175,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2048392,
+          2049257
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2038687
+        ],
+        "diagnosis": "between API verse 3:95 and 3:96, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:97",
+          "3:98"
+        ],
+        "api_boundary_ms": 2088450,
+        "ffmpeg_silence_idx_for_this_boundary": 179,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2088027,
+          2088802
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2071999,
+          2079997
+        ],
+        "diagnosis": "between API verse 3:97 and 3:98, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:99",
+          "3:100"
+        ],
+        "api_boundary_ms": 2124370,
+        "ffmpeg_silence_idx_for_this_boundary": 182,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2123837,
+          2124625
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2117451
+        ],
+        "diagnosis": "between API verse 3:99 and 3:100, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:101",
+          "3:102"
+        ],
+        "api_boundary_ms": 2163530,
+        "ffmpeg_silence_idx_for_this_boundary": 185,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2163010,
+          2163823
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2153321
+        ],
+        "diagnosis": "between API verse 3:101 and 3:102, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:103",
+          "3:104"
+        ],
+        "api_boundary_ms": 2230720,
+        "ffmpeg_silence_idx_for_this_boundary": 190,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2230127,
+          2230951
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          2186854,
+          2205127,
+          2221637
+        ],
+        "diagnosis": "between API verse 3:103 and 3:104, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:104",
+          "3:105"
+        ],
+        "api_boundary_ms": 2251170,
+        "ffmpeg_silence_idx_for_this_boundary": 192,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2250712,
+          2251513
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2243472
+        ],
+        "diagnosis": "between API verse 3:104 and 3:105, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:105",
+          "3:106"
+        ],
+        "api_boundary_ms": 2271180,
+        "ffmpeg_silence_idx_for_this_boundary": 194,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2270755,
+          2271535
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2264087
+        ],
+        "diagnosis": "between API verse 3:105 and 3:106, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:106",
+          "3:107"
+        ],
+        "api_boundary_ms": 2293380,
+        "ffmpeg_silence_idx_for_this_boundary": 196,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2292982,
+          2293727
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2278089
+        ],
+        "diagnosis": "between API verse 3:106 and 3:107, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:108",
+          "3:109"
+        ],
+        "api_boundary_ms": 2317930,
+        "ffmpeg_silence_idx_for_this_boundary": 200,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2317448,
+          2318244
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2310550,
+          2311365
+        ],
+        "diagnosis": "between API verse 3:108 and 3:109, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:109",
+          "3:110"
+        ],
+        "api_boundary_ms": 2328950,
+        "ffmpeg_silence_idx_for_this_boundary": 202,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2328523,
+          2329414
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2323463
+        ],
+        "diagnosis": "between API verse 3:109 and 3:110, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:110",
+          "3:111"
+        ],
+        "api_boundary_ms": 2357760,
+        "ffmpeg_silence_idx_for_this_boundary": 205,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2357229,
+          2358024
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2344565,
+          2350505
+        ],
+        "diagnosis": "between API verse 3:110 and 3:111, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:112",
+          "3:113"
+        ],
+        "api_boundary_ms": 2422570,
+        "ffmpeg_silence_idx_for_this_boundary": 210,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2422008,
+          2422826
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          2393777,
+          2402638,
+          2415841
+        ],
+        "diagnosis": "between API verse 3:112 and 3:113, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:113",
+          "3:114"
+        ],
+        "api_boundary_ms": 2443230,
+        "ffmpeg_silence_idx_for_this_boundary": 212,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2442774,
+          2443576
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2426820
+        ],
+        "diagnosis": "between API verse 3:113 and 3:114, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:115",
+          "3:116"
+        ],
+        "api_boundary_ms": 2477030,
+        "ffmpeg_silence_idx_for_this_boundary": 215,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2476536,
+          2477349
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2470126
+        ],
+        "diagnosis": "between API verse 3:115 and 3:116, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:116",
+          "3:117"
+        ],
+        "api_boundary_ms": 2501820,
+        "ffmpeg_silence_idx_for_this_boundary": 218,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2501331,
+          2502159
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2490263,
+          2496965
+        ],
+        "diagnosis": "between API verse 3:116 and 3:117, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:117",
+          "3:118"
+        ],
+        "api_boundary_ms": 2528130,
+        "ffmpeg_silence_idx_for_this_boundary": 220,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2527700,
+          2528527
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2519698
+        ],
+        "diagnosis": "between API verse 3:117 and 3:118, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:118",
+          "3:119"
+        ],
+        "api_boundary_ms": 2567390,
+        "ffmpeg_silence_idx_for_this_boundary": 223,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2566903,
+          2567740
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2548776,
+          2557930
+        ],
+        "diagnosis": "between API verse 3:118 and 3:119, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:119",
+          "3:120"
+        ],
+        "api_boundary_ms": 2610050,
+        "ffmpeg_silence_idx_for_this_boundary": 227,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2609589,
+          2610472
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          2586638,
+          2599883,
+          2603032
+        ],
+        "diagnosis": "between API verse 3:119 and 3:120, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:120",
+          "3:121"
+        ],
+        "api_boundary_ms": 2635050,
+        "ffmpeg_silence_idx_for_this_boundary": 229,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2634534,
+          2635345
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2620763
+        ],
+        "diagnosis": "between API verse 3:120 and 3:121, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:121",
+          "3:122"
+        ],
+        "api_boundary_ms": 2649630,
+        "ffmpeg_silence_idx_for_this_boundary": 231,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2649104,
+          2649865
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2644499
+        ],
+        "diagnosis": "between API verse 3:121 and 3:122, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:126",
+          "3:127"
+        ],
+        "api_boundary_ms": 2738080,
+        "ffmpeg_silence_idx_for_this_boundary": 237,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2737643,
+          2738464
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2729399
+        ],
+        "diagnosis": "between API verse 3:126 and 3:127, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:129",
+          "3:130"
+        ],
+        "api_boundary_ms": 2783580,
+        "ffmpeg_silence_idx_for_this_boundary": 242,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2783040,
+          2783854
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2769393,
+          2778252
+        ],
+        "diagnosis": "between API verse 3:129 and 3:130, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:134",
+          "3:135"
+        ],
+        "api_boundary_ms": 2854450,
+        "ffmpeg_silence_idx_for_this_boundary": 248,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2854104,
+          2854870
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2849243
+        ],
+        "diagnosis": "between API verse 3:134 and 3:135, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:135",
+          "3:136"
+        ],
+        "api_boundary_ms": 2882690,
+        "ffmpeg_silence_idx_for_this_boundary": 250,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2882185,
+          2882978
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2866811
+        ],
+        "diagnosis": "between API verse 3:135 and 3:136, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:136",
+          "3:137"
+        ],
+        "api_boundary_ms": 2904140,
+        "ffmpeg_silence_idx_for_this_boundary": 252,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2903699,
+          2904509
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          2899338
+        ],
+        "diagnosis": "between API verse 3:136 and 3:137, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:140",
+          "3:141"
+        ],
+        "api_boundary_ms": 2967980,
+        "ffmpeg_silence_idx_for_this_boundary": 258,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          2967492,
+          2968259
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          2947336,
+          2961997
+        ],
+        "diagnosis": "between API verse 3:140 and 3:141, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:144",
+          "3:145"
+        ],
+        "api_boundary_ms": 3038570,
+        "ffmpeg_silence_idx_for_this_boundary": 265,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3038008,
+          3038818
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          3016574,
+          3024853,
+          3032949
+        ],
+        "diagnosis": "between API verse 3:144 and 3:145, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:145",
+          "3:146"
+        ],
+        "api_boundary_ms": 3064270,
+        "ffmpeg_silence_idx_for_this_boundary": 268,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3063732,
+          3064556
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3048576,
+          3059621
+        ],
+        "diagnosis": "between API verse 3:145 and 3:146, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:146",
+          "3:147"
+        ],
+        "api_boundary_ms": 3087550,
+        "ffmpeg_silence_idx_for_this_boundary": 270,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3087027,
+          3087853
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3082380
+        ],
+        "diagnosis": "between API verse 3:146 and 3:147, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:148",
+          "3:149"
+        ],
+        "api_boundary_ms": 3122240,
+        "ffmpeg_silence_idx_for_this_boundary": 273,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3121568,
+          3122660
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3116600
+        ],
+        "diagnosis": "between API verse 3:148 and 3:149, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:151",
+          "3:152"
+        ],
+        "api_boundary_ms": 3171720,
+        "ffmpeg_silence_idx_for_this_boundary": 277,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3171262,
+          3172034
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3166376
+        ],
+        "diagnosis": "between API verse 3:151 and 3:152, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:152",
+          "3:153"
+        ],
+        "api_boundary_ms": 3223490,
+        "ffmpeg_silence_idx_for_this_boundary": 282,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3223010,
+          3223814
+        ],
+        "n_silences_skipped": 4,
+        "skipped_silence_centers_ms": [
+          3188989,
+          3199563,
+          3209451,
+          3217336
+        ],
+        "diagnosis": "between API verse 3:152 and 3:153, ffmpeg saw 4 extra inter-verse silence(s) that the API did not account for -- API likely merged 4 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:153",
+          "3:154"
+        ],
+        "api_boundary_ms": 3261110,
+        "ffmpeg_silence_idx_for_this_boundary": 285,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3260515,
+          3261465
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3241559,
+          3254224
+        ],
+        "diagnosis": "between API verse 3:153 and 3:154, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:154",
+          "3:155"
+        ],
+        "api_boundary_ms": 3343680,
+        "ffmpeg_silence_idx_for_this_boundary": 293,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3343206,
+          3344046
+        ],
+        "n_silences_skipped": 7,
+        "skipped_silence_centers_ms": [
+          3276138,
+          3296486,
+          3302479,
+          3309871,
+          3318187,
+          3328506,
+          3336860
+        ],
+        "diagnosis": "between API verse 3:154 and 3:155, ffmpeg saw 7 extra inter-verse silence(s) that the API did not account for -- API likely merged 7 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:155",
+          "3:156"
+        ],
+        "api_boundary_ms": 3365570,
+        "ffmpeg_silence_idx_for_this_boundary": 295,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3365043,
+          3365870
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3359571
+        ],
+        "diagnosis": "between API verse 3:155 and 3:156, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:156",
+          "3:157"
+        ],
+        "api_boundary_ms": 3416140,
+        "ffmpeg_silence_idx_for_this_boundary": 299,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3415720,
+          3416553
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          3386710,
+          3405382,
+          3410225
+        ],
+        "diagnosis": "between API verse 3:156 and 3:157, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:159",
+          "3:160"
+        ],
+        "api_boundary_ms": 3471420,
+        "ffmpeg_silence_idx_for_this_boundary": 304,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3471027,
+          3471838
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3452779,
+          3464479
+        ],
+        "diagnosis": "between API verse 3:159 and 3:160, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:160",
+          "3:161"
+        ],
+        "api_boundary_ms": 3491950,
+        "ffmpeg_silence_idx_for_this_boundary": 306,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3491586,
+          3492494
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3485305
+        ],
+        "diagnosis": "between API verse 3:160 and 3:161, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:161",
+          "3:162"
+        ],
+        "api_boundary_ms": 3513080,
+        "ffmpeg_silence_idx_for_this_boundary": 309,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3512534,
+          3513399
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3497312,
+          3503539
+        ],
+        "diagnosis": "between API verse 3:161 and 3:162, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:162",
+          "3:163"
+        ],
+        "api_boundary_ms": 3529980,
+        "ffmpeg_silence_idx_for_this_boundary": 311,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3529502,
+          3530401
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3525870
+        ],
+        "diagnosis": "between API verse 3:162 and 3:163, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:163",
+          "3:164"
+        ],
+        "api_boundary_ms": 3542490,
+        "ffmpeg_silence_idx_for_this_boundary": 313,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3542010,
+          3542820
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3535729
+        ],
+        "diagnosis": "between API verse 3:163 and 3:164, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:164",
+          "3:165"
+        ],
+        "api_boundary_ms": 3574670,
+        "ffmpeg_silence_idx_for_this_boundary": 315,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3574164,
+          3574954
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3557551
+        ],
+        "diagnosis": "between API verse 3:164 and 3:165, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:165",
+          "3:166"
+        ],
+        "api_boundary_ms": 3599620,
+        "ffmpeg_silence_idx_for_this_boundary": 317,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3599161,
+          3599987
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3591873
+        ],
+        "diagnosis": "between API verse 3:165 and 3:166, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:167",
+          "3:168"
+        ],
+        "api_boundary_ms": 3647580,
+        "ffmpeg_silence_idx_for_this_boundary": 323,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3647003,
+          3647795
+        ],
+        "n_silences_skipped": 4,
+        "skipped_silence_centers_ms": [
+          3615481,
+          3627643,
+          3634964,
+          3641492
+        ],
+        "diagnosis": "between API verse 3:167 and 3:168, ffmpeg saw 4 extra inter-verse silence(s) that the API did not account for -- API likely merged 4 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:168",
+          "3:169"
+        ],
+        "api_boundary_ms": 3666130,
+        "ffmpeg_silence_idx_for_this_boundary": 325,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3665646,
+          3666514
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3655740
+        ],
+        "diagnosis": "between API verse 3:168 and 3:169, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:169",
+          "3:170"
+        ],
+        "api_boundary_ms": 3684020,
+        "ffmpeg_silence_idx_for_this_boundary": 327,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3683550,
+          3684455
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3674653
+        ],
+        "diagnosis": "between API verse 3:169 and 3:170, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:172",
+          "3:173"
+        ],
+        "api_boundary_ms": 3736290,
+        "ffmpeg_silence_idx_for_this_boundary": 331,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3735858,
+          3736649
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3728228
+        ],
+        "diagnosis": "between API verse 3:172 and 3:173, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:174",
+          "3:175"
+        ],
+        "api_boundary_ms": 3775210,
+        "ffmpeg_silence_idx_for_this_boundary": 334,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3774810,
+          3775558
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3769787
+        ],
+        "diagnosis": "between API verse 3:174 and 3:175, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:176",
+          "3:177"
+        ],
+        "api_boundary_ms": 3816410,
+        "ffmpeg_silence_idx_for_this_boundary": 339,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3816013,
+          3816791
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          3798629,
+          3804240,
+          3811236
+        ],
+        "diagnosis": "between API verse 3:176 and 3:177, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:178",
+          "3:179"
+        ],
+        "api_boundary_ms": 3854160,
+        "ffmpeg_silence_idx_for_this_boundary": 343,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3853698,
+          3854482
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3841589,
+          3848740
+        ],
+        "diagnosis": "between API verse 3:178 and 3:179, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:179",
+          "3:180"
+        ],
+        "api_boundary_ms": 3891460,
+        "ffmpeg_silence_idx_for_this_boundary": 346,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3890985,
+          3891782
+        ],
+        "n_silences_skipped": 2,
+        "skipped_silence_centers_ms": [
+          3866935,
+          3883000
+        ],
+        "diagnosis": "between API verse 3:179 and 3:180, ffmpeg saw 2 extra inter-verse silence(s) that the API did not account for -- API likely merged 2 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:180",
+          "3:181"
+        ],
+        "api_boundary_ms": 3923830,
+        "ffmpeg_silence_idx_for_this_boundary": 350,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3923336,
+          3924202
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          3906994,
+          3912817,
+          3917915
+        ],
+        "diagnosis": "between API verse 3:180 and 3:181, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:181",
+          "3:182"
+        ],
+        "api_boundary_ms": 3951730,
+        "ffmpeg_silence_idx_for_this_boundary": 352,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3951163,
+          3952085
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3936942
+        ],
+        "diagnosis": "between API verse 3:181 and 3:182, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:183",
+          "3:184"
+        ],
+        "api_boundary_ms": 3998830,
+        "ffmpeg_silence_idx_for_this_boundary": 355,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          3998434,
+          3999238
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          3981154
+        ],
+        "diagnosis": "between API verse 3:183 and 3:184, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:185",
+          "3:186"
+        ],
+        "api_boundary_ms": 4046740,
+        "ffmpeg_silence_idx_for_this_boundary": 360,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4046282,
+          4047076
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          4022014,
+          4029091,
+          4038038
+        ],
+        "diagnosis": "between API verse 3:185 and 3:186, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:186",
+          "3:187"
+        ],
+        "api_boundary_ms": 4077120,
+        "ffmpeg_silence_idx_for_this_boundary": 362,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4076662,
+          4077514
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4067330
+        ],
+        "diagnosis": "between API verse 3:186 and 3:187, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:187",
+          "3:188"
+        ],
+        "api_boundary_ms": 4101880,
+        "ffmpeg_silence_idx_for_this_boundary": 364,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4101428,
+          4102202
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4097399
+        ],
+        "diagnosis": "between API verse 3:187 and 3:188, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:189",
+          "3:190"
+        ],
+        "api_boundary_ms": 4135940,
+        "ffmpeg_silence_idx_for_this_boundary": 367,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4135490,
+          4136287
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4129298
+        ],
+        "diagnosis": "between API verse 3:189 and 3:190, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:191",
+          "3:192"
+        ],
+        "api_boundary_ms": 4177840,
+        "ffmpeg_silence_idx_for_this_boundary": 370,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4177390,
+          4178096
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4166992
+        ],
+        "diagnosis": "between API verse 3:191 and 3:192, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:192",
+          "3:193"
+        ],
+        "api_boundary_ms": 4193590,
+        "ffmpeg_silence_idx_for_this_boundary": 372,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4193095,
+          4193913
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4186963
+        ],
+        "diagnosis": "between API verse 3:192 and 3:193, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:193",
+          "3:194"
+        ],
+        "api_boundary_ms": 4219090,
+        "ffmpeg_silence_idx_for_this_boundary": 374,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4218764,
+          4219638
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4207022
+        ],
+        "diagnosis": "between API verse 3:193 and 3:194, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:194",
+          "3:195"
+        ],
+        "api_boundary_ms": 4235210,
+        "ffmpeg_silence_idx_for_this_boundary": 376,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4234712,
+          4235586
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4228228
+        ],
+        "diagnosis": "between API verse 3:194 and 3:195, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:195",
+          "3:196"
+        ],
+        "api_boundary_ms": 4292940,
+        "ffmpeg_silence_idx_for_this_boundary": 380,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4292513,
+          4293309
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          4252271,
+          4272480,
+          4286571
+        ],
+        "diagnosis": "between API verse 3:195 and 3:196, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:197",
+          "3:198"
+        ],
+        "api_boundary_ms": 4313220,
+        "ffmpeg_silence_idx_for_this_boundary": 383,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4312752,
+          4313540
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4309124
+        ],
+        "diagnosis": "between API verse 3:197 and 3:198, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:198",
+          "3:199"
+        ],
+        "api_boundary_ms": 4337460,
+        "ffmpeg_silence_idx_for_this_boundary": 385,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4336922,
+          4337795
+        ],
+        "n_silences_skipped": 1,
+        "skipped_silence_centers_ms": [
+          4330580
+        ],
+        "diagnosis": "between API verse 3:198 and 3:199, ffmpeg saw 1 extra inter-verse silence(s) that the API did not account for -- API likely merged 1 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      },
+      {
+        "between_verses": [
+          "3:199",
+          "3:200"
+        ],
+        "api_boundary_ms": 4377640,
+        "ffmpeg_silence_idx_for_this_boundary": 389,
+        "ffmpeg_silence_for_this_boundary_ms": [
+          4377175,
+          4377966
+        ],
+        "n_silences_skipped": 3,
+        "skipped_silence_centers_ms": [
+          4355383,
+          4364418,
+          4371455
+        ],
+        "diagnosis": "between API verse 3:199 and 3:200, ffmpeg saw 3 extra inter-verse silence(s) that the API did not account for -- API likely merged 3 adjacent verse(s) into one earlier timestamp, shifting later verses TOO EARLY"
+      }
+    ]
+  }
+}

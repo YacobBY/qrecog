@@ -1,0 +1,172 @@
+{
+  "results": {
+    "16": {
+      "flags": [
+        {
+          "verse_key": "16:58",
+          "iou_self": 0.251,
+          "iou_best": 0.541,
+          "best_match_offset": -1,
+          "best_match_verse": "16:57",
+          "wx_score_self": 0.53,
+          "wx_score_anchor": 0.82,
+          "api_span_ms": [
+            896010,
+            906720
+          ],
+          "wx_self_span_ms": [
+            902787,
+            911659
+          ],
+          "wx_best_match_span_ms": [
+            894293,
+            902737
+          ],
+          "confidence": "WEAK"
+        },
+        {
+          "verse_key": "16:109",
+          "iou_self": 0.0,
+          "iou_best": 0.467,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.8,
+          "wx_score_anchor": 0.8,
+          "api_span_ms": [
+            1923767,
+            1931025
+          ],
+          "wx_self_span_ms": [
+            1933148,
+            1938229
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "18": {
+      "flags": [
+        {
+          "verse_key": "18:95",
+          "iou_self": 0.0,
+          "iou_best": 0.0,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.84,
+          "wx_score_anchor": 0.84,
+          "api_span_ms": [
+            1502771,
+            1515456
+          ],
+          "wx_self_span_ms": [
+            1494673,
+            1502714
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "20": {
+      "flags": [
+        {
+          "verse_key": "20:31",
+          "iou_self": 0.029,
+          "iou_best": 0.673,
+          "best_match_offset": -1,
+          "best_match_verse": "20:30",
+          "wx_score_self": 0.73,
+          "wx_score_anchor": 0.87,
+          "api_span_ms": [
+            197314,
+            199097
+          ],
+          "wx_self_span_ms": [
+            198988,
+            201089
+          ],
+          "wx_best_match_span_ms": [
+            196728,
+            198908
+          ],
+          "confidence": "STRONG"
+        }
+      ],
+      "clusters": []
+    },
+    "32": {
+      "flags": [
+        {
+          "verse_key": "32:1",
+          "iou_self": 0.141,
+          "iou_best": 0.796,
+          "best_match_offset": 1,
+          "best_match_verse": "32:2",
+          "wx_score_self": 0.21,
+          "wx_score_anchor": 0.4,
+          "api_span_ms": [
+            7,
+            6223
+          ],
+          "wx_self_span_ms": [
+            0,
+            885
+          ],
+          "wx_best_match_span_ms": [
+            935,
+            5882
+          ],
+          "confidence": "WEAK"
+        },
+        {
+          "verse_key": "32:2",
+          "iou_self": 0.0,
+          "iou_best": 0.0,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.4,
+          "wx_score_anchor": 0.4,
+          "api_span_ms": [
+            6230,
+            13235
+          ],
+          "wx_self_span_ms": [
+            935,
+            5882
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "77": {
+      "flags": [
+        {
+          "verse_key": "77:42",
+          "iou_self": 0.0,
+          "iou_best": 0.293,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.94,
+          "wx_score_anchor": 0.94,
+          "api_span_ms": [
+            179063,
+            183197
+          ],
+          "wx_self_span_ms": [
+            170880,
+            177162
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    }
+  },
+  "errors": {}
+}

@@ -1,0 +1,70 @@
+{
+  "1": {
+    "status": "ok",
+    "n_verses": 7,
+    "n_chunks": 7,
+    "flags": []
+  },
+  "3": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 200,
+    "n_chunks_default": 401,
+    "n_chunks_3s": 398,
+    "n_silences": 411,
+    "audio_ms": 4391993.469
+  },
+  "5": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 120,
+    "n_chunks_default": 303,
+    "n_chunks_3s": 293,
+    "n_silences": 314,
+    "audio_ms": 3466292.245
+  },
+  "18": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 110,
+    "n_chunks_default": 74,
+    "n_chunks_3s": 74,
+    "n_silences": 74,
+    "audio_ms": 1795004.082
+  },
+  "36": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 83,
+    "n_chunks_default": 93,
+    "n_chunks_3s": 91,
+    "n_silences": 93,
+    "audio_ms": 951928.1630000001
+  },
+  "78": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 40,
+    "n_chunks_default": 24,
+    "n_chunks_3s": 24,
+    "n_silences": 26,
+    "audio_ms": 252238.367
+  },
+  "100": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 11,
+    "n_chunks_default": 7,
+    "n_chunks_3s": 7,
+    "n_silences": 7,
+    "audio_ms": 55875.918
+  },
+  "112": {
+    "status": "ok",
+    "n_verses": 4,
+    "n_chunks": 4,
+    "flags": []
+  },
+  "114": {
+    "status": "chunk_count_mismatch",
+    "n_verses": 6,
+    "n_chunks_default": 4,
+    "n_chunks_3s": 4,
+    "n_silences": 4,
+    "audio_ms": 34115.918
+  }
+}

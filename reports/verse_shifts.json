@@ -1,0 +1,262 @@
+{
+  "results": {
+    "2": {
+      "flags": [
+        {
+          "verse_key": "2:18",
+          "iou_self": 0.0,
+          "iou_best": 0.0,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.93,
+          "wx_score_anchor": 0.93,
+          "api_span_ms": [
+            246330,
+            254300
+          ],
+          "wx_self_span_ms": [
+            240032,
+            245775
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "10": {
+      "flags": [
+        {
+          "verse_key": "10:63",
+          "iou_self": 0.0,
+          "iou_best": 0.452,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.87,
+          "wx_score_anchor": 0.87,
+          "api_span_ms": [
+            1438990,
+            1446070
+          ],
+          "wx_self_span_ms": [
+            1427561,
+            1434057
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "10:75",
+          "iou_self": 0.087,
+          "iou_best": 0.087,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.84,
+          "wx_score_anchor": 0.84,
+          "api_span_ms": [
+            1691260,
+            1709470
+          ],
+          "wx_self_span_ms": [
+            1677103,
+            1694066
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "10:79",
+          "iou_self": 0.0,
+          "iou_best": 0.487,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.84,
+          "wx_score_anchor": 0.84,
+          "api_span_ms": [
+            1763000,
+            1770440
+          ],
+          "wx_self_span_ms": [
+            1748212,
+            1755333
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "10:80",
+          "iou_self": 0.01,
+          "iou_best": 0.01,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.81,
+          "wx_score_anchor": 0.81,
+          "api_span_ms": [
+            1770440,
+            1786840
+          ],
+          "wx_self_span_ms": [
+            1755473,
+            1770756
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "10:95",
+          "iou_self": 0.0,
+          "iou_best": 0.0,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.83,
+          "wx_score_anchor": 0.83,
+          "api_span_ms": [
+            2076510,
+            2088210
+          ],
+          "wx_self_span_ms": [
+            2059216,
+            2069721
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "13": {
+      "flags": [
+        {
+          "verse_key": "13:2",
+          "iou_self": 0.143,
+          "iou_best": 0.789,
+          "best_match_offset": -1,
+          "best_match_verse": "13:1",
+          "wx_score_self": 0.49,
+          "wx_score_anchor": 0.83,
+          "api_span_ms": [
+            0,
+            35210
+          ],
+          "wx_self_span_ms": [
+            28158,
+            49344
+          ],
+          "wx_best_match_span_ms": [
+            320,
+            28108
+          ],
+          "confidence": "WEAK"
+        },
+        {
+          "verse_key": "13:8",
+          "iou_self": 0.033,
+          "iou_best": 0.747,
+          "best_match_offset": -1,
+          "best_match_verse": "13:7",
+          "wx_score_self": 0.83,
+          "wx_score_anchor": 0.86,
+          "api_span_ms": [
+            211570,
+            229860
+          ],
+          "wx_self_span_ms": [
+            228784,
+            244248
+          ],
+          "wx_best_match_span_ms": [
+            206889,
+            228734
+          ],
+          "confidence": "STRONG"
+        },
+        {
+          "verse_key": "13:9",
+          "iou_self": 0.0,
+          "iou_best": 0.48,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.87,
+          "wx_score_anchor": 0.87,
+          "api_span_ms": [
+            229860,
+            237280
+          ],
+          "wx_self_span_ms": [
+            244298,
+            251500
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "13:12",
+          "iou_self": 0.0,
+          "iou_best": 0.301,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.82,
+          "wx_score_anchor": 0.82,
+          "api_span_ms": [
+            295820,
+            306900
+          ],
+          "wx_self_span_ms": [
+            307347,
+            318272
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        }
+      ],
+      "clusters": []
+    },
+    "14": {
+      "flags": [
+        {
+          "verse_key": "14:14",
+          "iou_self": 0.051,
+          "iou_best": 0.295,
+          "best_match_offset": 0,
+          "best_match_verse": null,
+          "wx_score_self": 0.9,
+          "wx_score_anchor": 0.9,
+          "api_span_ms": [
+            351600,
+            358650
+          ],
+          "wx_self_span_ms": [
+            357701,
+            370048
+          ],
+          "wx_best_match_span_ms": null,
+          "confidence": "WX_GLITCH"
+        },
+        {
+          "verse_key": "14:15",
+          "iou_self": 0.146,
+          "iou_best": 0.784,
+          "best_match_offset": -1,
+          "best_match_verse": "14:14",
+          "wx_score_self": 0.48,
+          "wx_score_anchor": 0.9,
+          "api_span_ms": [
+            358650,
+            372230
+          ],
+          "wx_self_span_ms": [
+            370098,
+            373261
+          ],
+          "wx_best_match_span_ms": [
+            357701,
+            370048
+          ],
+          "confidence": "WEAK"
+        }
+      ],
+      "clusters": []
+    }
+  },
+  "errors": {}
+}

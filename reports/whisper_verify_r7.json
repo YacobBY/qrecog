@@ -1,0 +1,1922 @@
+{
+  "78": {
+    "flags": [
+      {
+        "verse_key": "78:16",
+        "api_span_ms": [
+          79900,
+          84080
+        ],
+        "transcribed_normalized": "ونباتي",
+        "canonical_normalized": "وجنتالفافا",
+        "sim_self": 0.375,
+        "best_match_offset": -1,
+        "best_match_verse": "78:15",
+        "best_match_sim": 0.455,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "78:22",
+        "api_span_ms": [
+          115610,
+          119030
+        ],
+        "transcribed_normalized": "كانتمرصاده",
+        "canonical_normalized": "للطغينمٔابا",
+        "sim_self": 0.286,
+        "best_match_offset": -1,
+        "best_match_verse": "78:21",
+        "best_match_sim": 0.692,
+        "flag": "shift_-1"
+      }
+    ],
+    "n_verses": 40
+  },
+  "82": {
+    "flags": [
+      {
+        "verse_key": "82:9",
+        "api_span_ms": [
+          42840,
+          48460
+        ],
+        "transcribed_normalized": "ماشاءركبك",
+        "canonical_normalized": "كلابلتكذبونبالدين",
+        "sim_self": 0.231,
+        "best_match_offset": -1,
+        "best_match_verse": "82:8",
+        "best_match_sim": 0.643,
+        "flag": "shift_-1"
+      },
+      {
+        "verse_key": "82:10",
+        "api_span_ms": [
+          48460,
+          53950
+        ],
+        "transcribed_normalized": "لابلتكذبونبالدين",
+        "canonical_normalized": "وانعليكملحفظين",
+        "sim_self": 0.4,
+        "best_match_offset": -1,
+        "best_match_verse": "82:9",
+        "best_match_sim": 0.97,
+        "flag": "shift_-1"
+      },
+      {
+        "verse_key": "82:11",
+        "api_span_ms": [
+          53950,
+          58260
+        ],
+        "transcribed_normalized": "وانعليكملحافظين",
+        "canonical_normalized": "كراماكتبين",
+        "sim_self": 0.4,
+        "best_match_offset": -1,
+        "best_match_verse": "82:10",
+        "best_match_sim": 0.966,
+        "flag": "shift_-1"
+      },
+      {
+        "verse_key": "82:12",
+        "api_span_ms": [
+          58260,
+          62540
+        ],
+        "transcribed_normalized": "كراما",
+        "canonical_normalized": "يعلمونماتفعلون",
+        "sim_self": 0.211,
+        "best_match_offset": -1,
+        "best_match_verse": "82:11",
+        "best_match_sim": 0.667,
+        "flag": "shift_-1"
+      },
+      {
+        "verse_key": "82:13",
+        "api_span_ms": [
+          62540,
+          67840
+        ],
+        "transcribed_normalized": "يعلمونماتفكرون",
+        "canonical_normalized": "انالابرارلفينعيم",
+        "sim_self": 0.267,
+        "best_match_offset": -1,
+        "best_match_verse": "82:12",
+        "best_match_sim": 0.857,
+        "flag": "shift_-1"
+      },
+      {
+        "verse_key": "82:15",
+        "api_span_ms": [
+          73460,
+          78060
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "يصلونهايومالدين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "82:15",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "82:16",
+        "api_span_ms": [
+          78060,
+          84750
+        ],
+        "transcribed_normalized": "انالفجارلفيجحيم",
+        "canonical_normalized": "وماهمعنهابغآئبين",
+        "sim_self": 0.312,
+        "best_match_offset": -2,
+        "best_match_verse": "82:14",
+        "best_match_sim": 0.968,
+        "flag": "shift_-2"
+      },
+      {
+        "verse_key": "82:17",
+        "api_span_ms": [
+          84750,
+          91120
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ومآادريكمايومالدين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "82:17",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "82:18",
+        "api_span_ms": [
+          91120,
+          98360
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ثممآادريكمايومالدين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "82:18",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "82:19",
+        "api_span_ms": [
+          98360,
+          111630
+        ],
+        "transcribed_normalized": "ثمماادراكمايومالدين",
+        "canonical_normalized": "يوملاتملكنفسلنفسشئاوالامريومئذلله",
+        "sim_self": 0.377,
+        "best_match_offset": -1,
+        "best_match_verse": "82:18",
+        "best_match_sim": 0.923,
+        "flag": "shift_-1"
+      }
+    ],
+    "n_verses": 19
+  },
+  "37": {
+    "flags": [
+      {
+        "verse_key": "37:25",
+        "api_span_ms": [
+          193060,
+          198750
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "مالكملاتناصرون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:25",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:38",
+        "api_span_ms": [
+          324670,
+          333450
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "انكملذآئقواالعذابالاليم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:38",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:41",
+        "api_span_ms": [
+          347870,
+          357070
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "اولٓئكلهمرزقمعلوم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:41",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:44",
+        "api_span_ms": [
+          370920,
+          377190
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "عليسررمتقبلين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:44",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:46",
+        "api_span_ms": [
+          386020,
+          393940
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "بيضآءلذهللشربين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:46",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:47",
+        "api_span_ms": [
+          393940,
+          403290
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "لافيهاغولولاهمعنهاينزفون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:47",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:51",
+        "api_span_ms": [
+          429360,
+          439860
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "قالقآئلمنهمانيكانليقرين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:51",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:53",
+        "api_span_ms": [
+          447460,
+          458720
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "اءذامتناوكناتراباوعظمااءنالمدينون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:53",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:56",
+        "api_span_ms": [
+          473870,
+          481370
+        ],
+        "transcribed_normalized": "ولولا",
+        "canonical_normalized": "قالتاللهانكدتلتردين",
+        "sim_self": 0.25,
+        "best_match_offset": 1,
+        "best_match_verse": "37:57",
+        "best_match_sim": 0.323,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:57",
+        "api_span_ms": [
+          481370,
+          489960
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ولولانعمهربيلكنتمنالمحضرين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:57",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:60",
+        "api_span_ms": [
+          503230,
+          510470
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "انهذالهوالفوزالعظيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:60",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:69",
+        "api_span_ms": [
+          579530,
+          592170
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "انهمالفواءابآءهمضآلين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:69",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:71",
+        "api_span_ms": [
+          600320,
+          606410
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ولقدضلقبلهماكثرالاولين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:71",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:73",
+        "api_span_ms": [
+          614330,
+          623320
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فانظركيفكانعقبهالمنذرين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:73",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:75",
+        "api_span_ms": [
+          630820,
+          639540
+        ],
+        "transcribed_normalized": "2.ونجينا",
+        "canonical_normalized": "ولقدنادينانوحفلنعمالمجيبون",
+        "sim_self": 0.294,
+        "best_match_offset": 1,
+        "best_match_verse": "37:76",
+        "best_match_sim": 0.375,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:76",
+        "api_span_ms": [
+          639540,
+          646930
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ونجينهواهلهمنالكربالعظيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:76",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:77",
+        "api_span_ms": [
+          646930,
+          653620
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "وجعلناذريتههمالباقين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:77",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:79",
+        "api_span_ms": [
+          659580,
+          666320
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "سلمعلينوحفيالعلمين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:79",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:81",
+        "api_span_ms": [
+          673480,
+          680060
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "انهمنعبادناالمؤمنين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:81",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:82",
+        "api_span_ms": [
+          680060,
+          686620
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ثماغرقناالٔاخرين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:82",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:85",
+        "api_span_ms": [
+          702870,
+          710940
+        ],
+        "transcribed_normalized": "افكياله",
+        "canonical_normalized": "اذقاللابيهوقومهماذاتعبدون",
+        "sim_self": 0.25,
+        "best_match_offset": 1,
+        "best_match_verse": "37:86",
+        "best_match_sim": 0.4,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:86",
+        "api_span_ms": [
+          710940,
+          718700
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "ائفكاءالههدوناللهتريدون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:86",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:87",
+        "api_span_ms": [
+          718700,
+          726330
+        ],
+        "transcribed_normalized": "فنظرنظره",
+        "canonical_normalized": "فماظنكمبربالعلمين",
+        "sim_self": 0.32,
+        "best_match_offset": 1,
+        "best_match_verse": "37:88",
+        "best_match_sim": 0.667,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:88",
+        "api_span_ms": [
+          726330,
+          732990
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فنظرنظرهفيالنجوم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:88",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:89",
+        "api_span_ms": [
+          732990,
+          738500
+        ],
+        "transcribed_normalized": "فتولواعنهم",
+        "canonical_normalized": "فقالانيسقيم",
+        "sim_self": 0.476,
+        "best_match_offset": 1,
+        "best_match_verse": "37:90",
+        "best_match_sim": 0.8,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:90",
+        "api_span_ms": [
+          738500,
+          743570
+        ],
+        "transcribed_normalized": "فراغالي",
+        "canonical_normalized": "فتولواعنهمدبرين",
+        "sim_self": 0.273,
+        "best_match_offset": 3,
+        "best_match_verse": "37:93",
+        "best_match_sim": 0.519,
+        "flag": "shift_+3"
+      },
+      {
+        "verse_key": "37:91",
+        "api_span_ms": [
+          743570,
+          752580
+        ],
+        "transcribed_normalized": "مالكملاتغلقوا",
+        "canonical_normalized": "فراغاليٓءالهتهمفقالالاتاكلون",
+        "sim_self": 0.39,
+        "best_match_offset": 1,
+        "best_match_verse": "37:92",
+        "best_match_sim": 0.769,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:92",
+        "api_span_ms": [
+          752580,
+          758670
+        ],
+        "transcribed_normalized": "فراغعليهمضوء",
+        "canonical_normalized": "مالكملاتنطقون",
+        "sim_self": 0.32,
+        "best_match_offset": 1,
+        "best_match_verse": "37:93",
+        "best_match_sim": 0.625,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:93",
+        "api_span_ms": [
+          758670,
+          765570
+        ],
+        "transcribed_normalized": "5.فاقبلوا",
+        "canonical_normalized": "فراغعليهمضرباباليمين",
+        "sim_self": 0.276,
+        "best_match_offset": 1,
+        "best_match_verse": "37:94",
+        "best_match_sim": 0.538,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:94",
+        "api_span_ms": [
+          765570,
+          772680
+        ],
+        "transcribed_normalized": "قلاتعبدونمني",
+        "canonical_normalized": "فاقبلوٓااليهيزفون",
+        "sim_self": 0.345,
+        "best_match_offset": 1,
+        "best_match_verse": "37:95",
+        "best_match_sim": 0.733,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:95",
+        "api_span_ms": [
+          772680,
+          778430
+        ],
+        "transcribed_normalized": "واللهخلقكم",
+        "canonical_normalized": "قالاتعبدونماتنحتون",
+        "sim_self": 0.214,
+        "best_match_offset": 1,
+        "best_match_verse": "37:96",
+        "best_match_sim": 0.69,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:97",
+        "api_span_ms": [
+          784700,
+          793110
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "قالواابنوالهبنينافالقوهفيالجحيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:97",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:98",
+        "api_span_ms": [
+          793110,
+          801780
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فارادوابهكيدافجعلنهمالاسفلين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:98",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:99",
+        "api_span_ms": [
+          801780,
+          809830
+        ],
+        "transcribed_normalized": "ربهبليمنالصلاه",
+        "canonical_normalized": "وقالانيذاهباليربيسيهدين",
+        "sim_self": 0.27,
+        "best_match_offset": 1,
+        "best_match_verse": "37:100",
+        "best_match_sim": 0.828,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:100",
+        "api_span_ms": [
+          809830,
+          815160
+        ],
+        "transcribed_normalized": "فبشرناهبظلالك",
+        "canonical_normalized": "ربهبليمنالصلحين",
+        "sim_self": 0.429,
+        "best_match_offset": 1,
+        "best_match_verse": "37:101",
+        "best_match_sim": 0.667,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:101",
+        "api_span_ms": [
+          815160,
+          821060
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فبشرنهبغلمحليم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:101",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:102",
+        "api_span_ms": [
+          821060,
+          856820
+        ],
+        "transcribed_normalized": "قولياابتفعلماتؤمر",
+        "canonical_normalized": "فلمابلغمعهالسعيقاليبنيانيٓاريفيالمنامانيٓاذبحكفانظرماذاتريقاليٓابتافعلماتؤمرستجدنيٓانشآءاللهمنالصبرين",
+        "sim_self": 0.269,
+        "best_match_offset": 1,
+        "best_match_verse": "37:103",
+        "best_match_sim": 0.378,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:103",
+        "api_span_ms": [
+          856820,
+          866020
+        ],
+        "transcribed_normalized": "وناديناهايهاالناس",
+        "canonical_normalized": "فلمآاسلماوتلهللجبين",
+        "sim_self": 0.324,
+        "best_match_offset": 1,
+        "best_match_verse": "37:104",
+        "best_match_sim": 0.545,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:104",
+        "api_span_ms": [
+          866020,
+          874980
+        ],
+        "transcribed_normalized": "قدصدقتالرؤيا",
+        "canonical_normalized": "وندينهانيٓابرهيم",
+        "sim_self": 0.286,
+        "best_match_offset": 1,
+        "best_match_verse": "37:105",
+        "best_match_sim": 0.5,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:107",
+        "api_span_ms": [
+          894160,
+          899910
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "وفدينهبذبحعظيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:107",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:108",
+        "api_span_ms": [
+          899910,
+          906070
+        ],
+        "transcribed_normalized": "سلامعلي",
+        "canonical_normalized": "وتركناعليهفيالٔاخرين",
+        "sim_self": 0.296,
+        "best_match_offset": 1,
+        "best_match_verse": "37:109",
+        "best_match_sim": 0.6,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:109",
+        "api_span_ms": [
+          906070,
+          913250
+        ],
+        "transcribed_normalized": "كذلكنجزيالمحسين",
+        "canonical_normalized": "سلمعليٓابرهيم",
+        "sim_self": 0.286,
+        "best_match_offset": 1,
+        "best_match_verse": "37:110",
+        "best_match_sim": 0.968,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:110",
+        "api_span_ms": [
+          913250,
+          918660
+        ],
+        "transcribed_normalized": "انهمنعبادهرسولالله",
+        "canonical_normalized": "كذلكنجزيالمحسنين",
+        "sim_self": 0.176,
+        "best_match_offset": 1,
+        "best_match_verse": "37:111",
+        "best_match_sim": 0.595,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:111",
+        "api_span_ms": [
+          918660,
+          925610
+        ],
+        "transcribed_normalized": "وبشرناهباسحاده",
+        "canonical_normalized": "انهمنعبادناالمؤمنين",
+        "sim_self": 0.303,
+        "best_match_offset": 1,
+        "best_match_verse": "37:112",
+        "best_match_sim": 0.579,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:113",
+        "api_span_ms": [
+          934150,
+          953250
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "وبركناعليهوعليٓاسحقومنذريتهمامحسنوظالملنفسهمبين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:113",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:115",
+        "api_span_ms": [
+          960170,
+          968320
+        ],
+        "transcribed_normalized": "ونصرناهمفكانواسيئين",
+        "canonical_normalized": "ونجينهماوقومهمامنالكربالعظيم",
+        "sim_self": 0.426,
+        "best_match_offset": 1,
+        "best_match_verse": "37:116",
+        "best_match_sim": 0.732,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:118",
+        "api_span_ms": [
+          981300,
+          987410
+        ],
+        "transcribed_normalized": "وتركناعليهمافيالناس",
+        "canonical_normalized": "وهدينهماالصرطالمستقيم",
+        "sim_self": 0.45,
+        "best_match_offset": 1,
+        "best_match_verse": "37:119",
+        "best_match_sim": 0.829,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:119",
+        "api_span_ms": [
+          987410,
+          993780
+        ],
+        "transcribed_normalized": "سلامعليموسيوهكذا",
+        "canonical_normalized": "وتركناعليهمافيالٔاخرين",
+        "sim_self": 0.368,
+        "best_match_offset": 1,
+        "best_match_verse": "37:120",
+        "best_match_sim": 0.774,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:120",
+        "api_span_ms": [
+          993780,
+          1000020
+        ],
+        "transcribed_normalized": "اناكذلكنجد",
+        "canonical_normalized": "سلمعليموسيوهرون",
+        "sim_self": 0.16,
+        "best_match_offset": 1,
+        "best_match_verse": "37:121",
+        "best_match_sim": 0.621,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:122",
+        "api_span_ms": [
+          1007330,
+          1015400
+        ],
+        "transcribed_normalized": "وانالياسلمننمشي",
+        "canonical_normalized": "انهمامنعبادناالمؤمنين",
+        "sim_self": 0.444,
+        "best_match_offset": 1,
+        "best_match_verse": "37:123",
+        "best_match_sim": 0.765,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:126",
+        "api_span_ms": [
+          1037610,
+          1047090
+        ],
+        "transcribed_normalized": "فكذبوهفان",
+        "canonical_normalized": "اللهربكموربءابآئكمالاولين",
+        "sim_self": 0.229,
+        "best_match_offset": 1,
+        "best_match_verse": "37:127",
+        "best_match_sim": 0.667,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:127",
+        "api_span_ms": [
+          1047090,
+          1054460
+        ],
+        "transcribed_normalized": "الاعباداللهالمخلوقين",
+        "canonical_normalized": "فكذبوهفانهملمحضرون",
+        "sim_self": 0.368,
+        "best_match_offset": 1,
+        "best_match_verse": "37:128",
+        "best_match_sim": 0.923,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:128",
+        "api_span_ms": [
+          1054460,
+          1060020
+        ],
+        "transcribed_normalized": "وتركناعليهفيالاخره",
+        "canonical_normalized": "الاعباداللهالمخلصين",
+        "sim_self": 0.378,
+        "best_match_offset": 1,
+        "best_match_verse": "37:129",
+        "best_match_sim": 0.895,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:129",
+        "api_span_ms": [
+          1060020,
+          1065480
+        ],
+        "transcribed_normalized": "سلامعلي",
+        "canonical_normalized": "وتركناعليهفيالٔاخرين",
+        "sim_self": 0.296,
+        "best_match_offset": 1,
+        "best_match_verse": "37:130",
+        "best_match_sim": 0.571,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:130",
+        "api_span_ms": [
+          1065480,
+          1072140
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "سلمعليٓالياسين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:130",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:131",
+        "api_span_ms": [
+          1072140,
+          1078640
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "اناكذلكنجزيالمحسنين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:131",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:133",
+        "api_span_ms": [
+          1085140,
+          1091360
+        ],
+        "transcribed_normalized": "اذنجيناهواهلهونجيناه",
+        "canonical_normalized": "وانلوطالمنالمرسلين",
+        "sim_self": 0.421,
+        "best_match_offset": 1,
+        "best_match_verse": "37:134",
+        "best_match_sim": 0.769,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:134",
+        "api_span_ms": [
+          1091360,
+          1099380
+        ],
+        "transcribed_normalized": "الاعجوزافيالغابه",
+        "canonical_normalized": "اذنجينهواهلهٓاجمعين",
+        "sim_self": 0.343,
+        "best_match_offset": 1,
+        "best_match_verse": "37:135",
+        "best_match_sim": 0.848,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:135",
+        "api_span_ms": [
+          1099380,
+          1105910
+        ],
+        "transcribed_normalized": "ثمدمرنا",
+        "canonical_normalized": "الاعجوزافيالغبرين",
+        "sim_self": 0.167,
+        "best_match_offset": 1,
+        "best_match_verse": "37:136",
+        "best_match_sim": 0.636,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:136",
+        "api_span_ms": [
+          1105910,
+          1112310
+        ],
+        "transcribed_normalized": "وانكملتمرونعددكم",
+        "canonical_normalized": "ثمدمرناالٔاخرين",
+        "sim_self": 0.258,
+        "best_match_offset": 1,
+        "best_match_verse": "37:137",
+        "best_match_sim": 0.684,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:137",
+        "api_span_ms": [
+          1112310,
+          1120850
+        ],
+        "transcribed_normalized": "وفيالليل",
+        "canonical_normalized": "وانكملتمرونعليهممصبحين",
+        "sim_self": 0.333,
+        "best_match_offset": -2,
+        "best_match_verse": "37:135",
+        "best_match_sim": 0.48,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:139",
+        "api_span_ms": [
+          1128870,
+          1135140
+        ],
+        "transcribed_normalized": "اذابقاليالفلكالمشحون",
+        "canonical_normalized": "وانيونسلمنالمرسلين",
+        "sim_self": 0.368,
+        "best_match_offset": 1,
+        "best_match_verse": "37:140",
+        "best_match_sim": 1.0,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:140",
+        "api_span_ms": [
+          1135140,
+          1140680
+        ],
+        "transcribed_normalized": "فساهمفكانمنالمدحضيسرع",
+        "canonical_normalized": "اذابقاليالفلكالمشحون",
+        "sim_self": 0.341,
+        "best_match_offset": 1,
+        "best_match_verse": "37:141",
+        "best_match_sim": 0.9,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:141",
+        "api_span_ms": [
+          1140680,
+          1146270
+        ],
+        "transcribed_normalized": "فالتقمهالحوتوهومليم",
+        "canonical_normalized": "فساهمفكانمنالمدحضين",
+        "sim_self": 0.368,
+        "best_match_offset": 1,
+        "best_match_verse": "37:142",
+        "best_match_sim": 1.0,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:142",
+        "api_span_ms": [
+          1146270,
+          1151890
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فالتقمهالحوتوهومليم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:142",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:143",
+        "api_span_ms": [
+          1151890,
+          1160510
+        ],
+        "transcribed_normalized": "للبثفيبطنه",
+        "canonical_normalized": "فلولآانهكانمنالمسبحين",
+        "sim_self": 0.312,
+        "best_match_offset": 1,
+        "best_match_verse": "37:144",
+        "best_match_sim": 0.606,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:145",
+        "api_span_ms": [
+          1168920,
+          1177360
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فنبذنهبالعرآءوهوسقيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:145",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:146",
+        "api_span_ms": [
+          1177360,
+          1186530
+        ],
+        "transcribed_normalized": "وارسلناهاليمئهالفنساء",
+        "canonical_normalized": "وانبتناعليهشجرهمنيقطين",
+        "sim_self": 0.372,
+        "best_match_offset": 1,
+        "best_match_verse": "37:147",
+        "best_match_sim": 0.739,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:147",
+        "api_span_ms": [
+          1186530,
+          1194110
+        ],
+        "transcribed_normalized": "اويزيدونفامنوافمتعناهم",
+        "canonical_normalized": "وارسلنهاليمائهالفاويزيدون",
+        "sim_self": 0.34,
+        "best_match_offset": 1,
+        "best_match_verse": "37:148",
+        "best_match_sim": 0.619,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:148",
+        "api_span_ms": [
+          1194110,
+          1201760
+        ],
+        "transcribed_normalized": "فاستفتهمالربكالبنات",
+        "canonical_normalized": "فٔامنوافمتعنهماليحين",
+        "sim_self": 0.462,
+        "best_match_offset": 1,
+        "best_match_verse": "37:149",
+        "best_match_sim": 0.792,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:150",
+        "api_span_ms": [
+          1209540,
+          1219680
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "امخلقناالملٓئكهانثاوهمشهدون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:150",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:152",
+        "api_span_ms": [
+          1229790,
+          1236560
+        ],
+        "transcribed_normalized": "اصطفي",
+        "canonical_normalized": "ولداللهوانهملكذبون",
+        "sim_self": 0.087,
+        "best_match_offset": 1,
+        "best_match_verse": "37:153",
+        "best_match_sim": 0.4,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:156",
+        "api_span_ms": [
+          1252280,
+          1258370
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "املكمسلطنمبين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:156",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:158",
+        "api_span_ms": [
+          1266570,
+          1280830
+        ],
+        "transcribed_normalized": "سبحانك",
+        "canonical_normalized": "وجعلوابينهوبينالجنهنسباولقدعلمتالجنهانهملمحضرون",
+        "sim_self": 0.151,
+        "best_match_offset": 1,
+        "best_match_verse": "37:159",
+        "best_match_sim": 0.455,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:159",
+        "api_span_ms": [
+          1280830,
+          1287650
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "سبحناللهعمايصفون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:159",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:162",
+        "api_span_ms": [
+          1299740,
+          1307630
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "مآانتمعليهبفتنين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:162",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:164",
+        "api_span_ms": [
+          1313300,
+          1323930
+        ],
+        "transcribed_normalized": "وان",
+        "canonical_normalized": "ومامنآالالهمقاممعلوم",
+        "sim_self": 0.25,
+        "best_match_offset": -3,
+        "best_match_verse": "37:161",
+        "best_match_sim": 0.353,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:165",
+        "api_span_ms": [
+          1323930,
+          1333780
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "وانالنحنالصآفون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:165",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:166",
+        "api_span_ms": [
+          1333780,
+          1340150
+        ],
+        "transcribed_normalized": "وان",
+        "canonical_normalized": "وانالنحنالمسبحون",
+        "sim_self": 0.316,
+        "best_match_offset": 1,
+        "best_match_verse": "37:167",
+        "best_match_sim": 0.333,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:168",
+        "api_span_ms": [
+          1346260,
+          1354780
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "لوانعندناذكرامنالاولين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:168",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:169",
+        "api_span_ms": [
+          1354780,
+          1361860
+        ],
+        "transcribed_normalized": "فكفروابي",
+        "canonical_normalized": "لكناعباداللهالمخلصين",
+        "sim_self": 0.286,
+        "best_match_offset": 1,
+        "best_match_verse": "37:170",
+        "best_match_sim": 0.615,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:173",
+        "api_span_ms": [
+          1382550,
+          1389810
+        ],
+        "transcribed_normalized": "فتولعنا",
+        "canonical_normalized": "وانجندنالهمالغلبون",
+        "sim_self": 0.24,
+        "best_match_offset": 1,
+        "best_match_verse": "37:174",
+        "best_match_sim": 0.571,
+        "flag": "shift_+1"
+      },
+      {
+        "verse_key": "37:174",
+        "api_span_ms": [
+          1389810,
+          1395370
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فتولعنهمحتيحين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:174",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:177",
+        "api_span_ms": [
+          1407360,
+          1417650
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "فاذانزلبساحتهمفسآءصباحالمنذرين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:177",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:178",
+        "api_span_ms": [
+          1417650,
+          1423500
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "وتولعنهمحتيحين",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:178",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:180",
+        "api_span_ms": [
+          1429010,
+          1436950
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "سبحنربكربالعزهعمايصفون",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "37:180",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      },
+      {
+        "verse_key": "37:181",
+        "api_span_ms": [
+          1436950,
+          1442330
+        ],
+        "transcribed_normalized": "والحمدلله",
+        "canonical_normalized": "وسلمعليالمرسلين",
+        "sim_self": 0.417,
+        "best_match_offset": 1,
+        "best_match_verse": "37:182",
+        "best_match_sim": 0.667,
+        "flag": "shift_+1"
+      }
+    ],
+    "n_verses": 182
+  },
+  "19": {
+    "flags": [],
+    "n_verses": 98
+  },
+  "14": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "18": {
+    "flags": [],
+    "n_verses": 110
+  },
+  "56": {
+    "flags": [],
+    "n_verses": 96
+  },
+  "1": {
+    "flags": [],
+    "n_verses": 7
+  },
+  "2": {
+    "flags": [],
+    "n_verses": 286
+  },
+  "3": {
+    "flags": [],
+    "n_verses": 200
+  },
+  "4": {
+    "flags": [
+      {
+        "verse_key": "4:157",
+        "api_span_ms": [
+          4278680,
+          4312670
+        ],
+        "transcribed_normalized": "وقولهموماقتلوهيقينا",
+        "canonical_normalized": "وقولهماناقتلناالمسيحعيسيابنمريمرسولاللهوماقتلوهوماصلبوهولكنشبهلهموانالذيناختلفوافيهلفيشكمنهمالهمبهمنعلمالااتباعالظنوماقتلوهيقينا",
+        "sim_self": 0.259,
+        "best_match_offset": -1,
+        "best_match_verse": "4:156",
+        "best_match_sim": 0.449,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 176
+  },
+  "5": {
+    "flags": [],
+    "n_verses": 120
+  },
+  "6": {
+    "flags": [],
+    "n_verses": 165
+  },
+  "7": {
+    "flags": [],
+    "n_verses": 206
+  },
+  "8": {
+    "flags": [],
+    "n_verses": 75
+  },
+  "9": {
+    "flags": [],
+    "n_verses": 129
+  },
+  "10": {
+    "flags": [],
+    "n_verses": 109
+  },
+  "11": {
+    "flags": [],
+    "n_verses": 123
+  },
+  "12": {
+    "flags": [],
+    "n_verses": 111
+  },
+  "13": {
+    "flags": [],
+    "n_verses": 43
+  },
+  "15": {
+    "flags": [],
+    "n_verses": 99
+  },
+  "16": {
+    "flags": [
+      {
+        "verse_key": "16:47",
+        "api_span_ms": [
+          851270,
+          861880
+        ],
+        "transcribed_normalized": "OrHewilltakethemintofear,thensurelyyourLordisMerciful,Merciful.",
+        "canonical_normalized": "اوياخذهمعليتخوففانربكملرءوفرحيم",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "16:47",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 128
+  },
+  "17": {
+    "flags": [
+      {
+        "verse_key": "17:93",
+        "api_span_ms": [
+          1595480,
+          1625360
+        ],
+        "transcribed_normalized": "Ortherewillbeforyouahouseofgoldoraplaceofhighplaceinthesky,andwewillnotbelieveinyourhighplaceuntilyousenddowntousaBookwhichwewillread.Say,Subhan,myLord,amInotbutahumanbeing,amessenger?",
+        "canonical_normalized": "اويكونلكبيتمنزخرفاوترقيفيالسمآءولننؤمنلرقيكحتيتنزلعليناكتبانقرؤهقلسبحانربيهلكنتالابشرارسولا",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "17:93",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 111
+  },
+  "20": {
+    "flags": [
+      {
+        "verse_key": "20:1",
+        "api_span_ms": [
+          0,
+          1720
+        ],
+        "transcribed_normalized": "باها",
+        "canonical_normalized": "طه",
+        "sim_self": 0.333,
+        "best_match_offset": 0,
+        "best_match_verse": "20:1",
+        "best_match_sim": 0.333,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 135
+  },
+  "21": {
+    "flags": [],
+    "n_verses": 112
+  },
+  "22": {
+    "flags": [],
+    "n_verses": 78
+  },
+  "23": {
+    "flags": [],
+    "n_verses": 118
+  },
+  "24": {
+    "flags": [],
+    "n_verses": 64
+  },
+  "25": {
+    "flags": [],
+    "n_verses": 77
+  },
+  "26": {
+    "flags": [],
+    "n_verses": 227
+  },
+  "27": {
+    "flags": [],
+    "n_verses": 93
+  },
+  "28": {
+    "flags": [],
+    "n_verses": 88
+  },
+  "29": {
+    "flags": [],
+    "n_verses": 69
+  },
+  "30": {
+    "flags": [],
+    "n_verses": 60
+  },
+  "31": {
+    "flags": [],
+    "n_verses": 34
+  },
+  "32": {
+    "flags": [
+      {
+        "verse_key": "32:20",
+        "api_span_ms": [
+          298070,
+          330670
+        ],
+        "transcribed_normalized": "واماالذينفسقوافماواهمالناراممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممممم",
+        "canonical_normalized": "واماالذينفسقوافماويهمالناركلمآارادوٓاانيخرجوامنهآاعيدوافيهاوقيللهمذوقواعذابالنارالذيكنتمبهتكذبون",
+        "sim_self": 0.167,
+        "best_match_offset": 0,
+        "best_match_verse": "32:20",
+        "best_match_sim": 0.167,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 30
+  },
+  "33": {
+    "flags": [],
+    "n_verses": 73
+  },
+  "34": {
+    "flags": [],
+    "n_verses": 54
+  },
+  "35": {
+    "flags": [],
+    "n_verses": 45
+  },
+  "36": {
+    "flags": [],
+    "n_verses": 83
+  },
+  "38": {
+    "flags": [],
+    "n_verses": 88
+  },
+  "39": {
+    "flags": [],
+    "n_verses": 75
+  },
+  "40": {
+    "flags": [],
+    "n_verses": 85
+  },
+  "41": {
+    "flags": [],
+    "n_verses": 54
+  },
+  "42": {
+    "flags": [],
+    "n_verses": 53
+  },
+  "43": {
+    "flags": [],
+    "n_verses": 89
+  },
+  "44": {
+    "flags": [],
+    "n_verses": 59
+  },
+  "45": {
+    "flags": [],
+    "n_verses": 37
+  },
+  "46": {
+    "flags": [],
+    "n_verses": 35
+  },
+  "47": {
+    "flags": [],
+    "n_verses": 38
+  },
+  "48": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "49": {
+    "flags": [],
+    "n_verses": 18
+  },
+  "50": {
+    "flags": [],
+    "n_verses": 45
+  },
+  "51": {
+    "flags": [],
+    "n_verses": 60
+  },
+  "52": {
+    "flags": [],
+    "n_verses": 49
+  },
+  "53": {
+    "flags": [],
+    "n_verses": 62
+  },
+  "54": {
+    "flags": [],
+    "n_verses": 55
+  },
+  "55": {
+    "flags": [],
+    "n_verses": 78
+  },
+  "57": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "58": {
+    "flags": [],
+    "n_verses": 22
+  },
+  "59": {
+    "flags": [],
+    "n_verses": 24
+  },
+  "60": {
+    "flags": [],
+    "n_verses": 13
+  },
+  "61": {
+    "flags": [],
+    "n_verses": 14
+  },
+  "62": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "63": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "64": {
+    "flags": [],
+    "n_verses": 18
+  },
+  "65": {
+    "flags": [],
+    "n_verses": 12
+  },
+  "66": {
+    "flags": [],
+    "n_verses": 12
+  },
+  "67": {
+    "flags": [],
+    "n_verses": 30
+  },
+  "68": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "69": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "70": {
+    "flags": [],
+    "n_verses": 44
+  },
+  "71": {
+    "flags": [],
+    "n_verses": 28
+  },
+  "72": {
+    "flags": [],
+    "n_verses": 28
+  },
+  "73": {
+    "flags": [],
+    "n_verses": 20
+  },
+  "74": {
+    "flags": [],
+    "n_verses": 56
+  },
+  "75": {
+    "flags": [],
+    "n_verses": 40
+  },
+  "76": {
+    "flags": [],
+    "n_verses": 31
+  },
+  "77": {
+    "flags": [],
+    "n_verses": 50
+  },
+  "79": {
+    "flags": [],
+    "n_verses": 46
+  },
+  "80": {
+    "flags": [],
+    "n_verses": 42
+  },
+  "81": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "83": {
+    "flags": [],
+    "n_verses": 36
+  },
+  "84": {
+    "flags": [],
+    "n_verses": 25
+  },
+  "85": {
+    "flags": [],
+    "n_verses": 22
+  },
+  "86": {
+    "flags": [],
+    "n_verses": 17
+  },
+  "87": {
+    "flags": [],
+    "n_verses": 19
+  },
+  "88": {
+    "flags": [],
+    "n_verses": 26
+  },
+  "89": {
+    "flags": [],
+    "n_verses": 30
+  },
+  "90": {
+    "flags": [],
+    "n_verses": 20
+  },
+  "91": {
+    "flags": [],
+    "n_verses": 15
+  },
+  "92": {
+    "flags": [],
+    "n_verses": 21
+  },
+  "93": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "94": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "95": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "96": {
+    "flags": [],
+    "n_verses": 19
+  },
+  "97": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "98": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "99": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "100": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "101": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "102": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "103": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "104": {
+    "flags": [],
+    "n_verses": 9
+  },
+  "105": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "106": {
+    "flags": [],
+    "n_verses": 4
+  },
+  "107": {
+    "flags": [],
+    "n_verses": 7
+  },
+  "108": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "109": {
+    "flags": [],
+    "n_verses": 6
+  },
+  "110": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "111": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "112": {
+    "flags": [],
+    "n_verses": 4
+  },
+  "113": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "114": {
+    "flags": [],
+    "n_verses": 6
+  }
+}

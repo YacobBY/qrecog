@@ -1,0 +1,98 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qrfix"
+version = "0.1.0"
+description = "Detects and fixes per-verse audio-to-translation timing drift in the quran.com / QUL recitation API"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [{ name = "qrfix contributors" }]
+keywords = [
+  "quran",
+  "tarteel",
+  "qul",
+  "forced-alignment",
+  "whisper",
+  "wav2vec2",
+  "arabic",
+  "audio-text-alignment",
+]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Science/Research",
+  "Topic :: Scientific/Engineering :: Information Analysis",
+  "Topic :: Multimedia :: Sound/Audio :: Speech",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+]
+
+# Runtime deps. WhisperX pulls in faster-whisper, ctranslate2, transformers,
+# torch and pyannote-audio transitively.  PyTorch is intentionally NOT
+# pinned here -- the right wheel depends on the user's CUDA version, so
+# install it with the index-url instructions in docs/install.md.
+dependencies = [
+  "whisperx>=3.1",
+  "openai-whisper>=20231117",
+  "huggingface_hub>=0.20",
+  "soundfile>=0.12",
+  "numpy>=1.24",
+]
+
+[project.optional-dependencies]
+# Convenience: lets you skip the doc but spin up a clean dev env.
+dev = [
+  "pytest>=7",
+  "ruff>=0.4",
+]
+
+[project.urls]
+# Update these to point at your fork once published.
+Homepage = "https://github.com/USER/qrfix"
+Issues = "https://github.com/USER/qrfix/issues"
+
+# Console-script shortcuts for the most common tasks.  After
+# `pip install -e .` they appear on the PATH.
+[project.scripts]
+qrfix-analyze-tunaiji = "analyze_tunaiji:main"
+qrfix-fetch           = "fetch_reciter:main"
+qrfix-align           = "batch_align:main"
+qrfix-heal            = "heal_alignment:main"
+qrfix-fix             = "generate_fix_whisperx:main"
+qrfix-detect          = "detect_shifts:main"
+qrfix-verify          = "verify_with_whisper:main"
+qrfix-summarize       = "summarize_findings:main"
+qrfix-status          = "status:main"
+
+[tool.setuptools]
+# Flat layout: every top-level *.py at the repo root that isn't
+# excluded becomes an importable module.
+py-modules = [
+  "analyze_tunaiji",
+  "batch_align",
+  "build_demo",
+  "detect_shifts",
+  "fetch_all",
+  "fetch_reciter",
+  "force_align",
+  "generate_fix_whisperx",
+  "heal_alignment",
+  "process_reciter",
+  "reciter_paths",
+  "run_all_reciters",
+  "serve",
+  "status",
+  "summarize_findings",
+  "verify_with_whisper",
+  "whisperx_align",
+]
+
+[tool.setuptools.exclude-package-data]
+"*" = ["legacy/*", "audio/*", "data/*", "reciters/*", "logs/*"]

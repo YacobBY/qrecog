@@ -1,0 +1,20 @@
+# Runtime requirements for qrfix.
+#
+# PyTorch is NOT listed here -- the right wheel depends on your CUDA
+# version. Install it FIRST, before everything else, using the matching
+# index URL.  See docs/install.md for the full instructions.  Example
+# (CUDA 13.x):
+#
+#   pip install --index-url https://download.pytorch.org/whl/cu130 \
+#               torch torchvision torchaudio
+#
+# Then:
+#
+#   pip install -r requirements.txt    # OR
+#   pip install -e .                   # (installs from pyproject.toml)
+
+whisperx>=3.1
+openai-whisper>=20231117
+huggingface_hub>=0.20
+soundfile>=0.12
+numpy>=1.24

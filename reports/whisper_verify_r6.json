@@ -1,0 +1,578 @@
+{
+  "2": {
+    "flags": [],
+    "n_verses": 286
+  },
+  "3": {
+    "flags": [
+      {
+        "verse_key": "3:125",
+        "api_span_ms": [
+          4139600,
+          4174400
+        ],
+        "transcribed_normalized": "بلياشتركوافيالقناه",
+        "canonical_normalized": "بليٓانتصبرواوتتقواوياتوكممنفورهمهذايمددكمربكمبخمسهءالفمنالملٓئكهمسومين",
+        "sim_self": 0.341,
+        "best_match_offset": 3,
+        "best_match_verse": "3:128",
+        "best_match_sim": 0.355,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 200
+  },
+  "4": {
+    "flags": [
+      {
+        "verse_key": "4:16",
+        "api_span_ms": [
+          847110,
+          881910
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "والذانياتينهامنكمفٔاذوهمافانتاباواصلحافاعرضواعنهمآاناللهكانتوابارحيما",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "4:16",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 176
+  },
+  "5": {
+    "flags": [],
+    "n_verses": 120
+  },
+  "6": {
+    "flags": [],
+    "n_verses": 165
+  },
+  "7": {
+    "flags": [
+      {
+        "verse_key": "7:46",
+        "api_span_ms": [
+          1457300,
+          1499670
+        ],
+        "transcribed_normalized": "وبينهماحجاب",
+        "canonical_normalized": "وبينهماحجابوعليالاعرافرجاليعرفونكلابسيميهمونادوااصحبالجنهانسلمعليكملميدخلوهاوهميطمعون",
+        "sim_self": 0.229,
+        "best_match_offset": -1,
+        "best_match_verse": "7:45",
+        "best_match_sim": 0.305,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 206
+  },
+  "8": {
+    "flags": [],
+    "n_verses": 75
+  },
+  "11": {
+    "flags": [],
+    "n_verses": 123
+  },
+  "12": {
+    "flags": [],
+    "n_verses": 111
+  },
+  "13": {
+    "flags": [
+      {
+        "verse_key": "13:1",
+        "api_span_ms": [
+          0,
+          39390
+        ],
+        "transcribed_normalized": "الفلامينرا",
+        "canonical_normalized": "الٓمٓرتلكءايتالكتبوالذيٓانزلاليكمنربكالحقولكناكثرالناسلايؤمنون",
+        "sim_self": 0.222,
+        "best_match_offset": 0,
+        "best_match_verse": "13:1",
+        "best_match_sim": 0.222,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 43
+  },
+  "14": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "16": {
+    "flags": [],
+    "n_verses": 128
+  },
+  "17": {
+    "flags": [],
+    "n_verses": 111
+  },
+  "22": {
+    "flags": [],
+    "n_verses": 78
+  },
+  "23": {
+    "flags": [],
+    "n_verses": 118
+  },
+  "25": {
+    "flags": [],
+    "n_verses": 77
+  },
+  "26": {
+    "flags": [],
+    "n_verses": 227
+  },
+  "27": {
+    "flags": [],
+    "n_verses": 93
+  },
+  "28": {
+    "flags": [],
+    "n_verses": 88
+  },
+  "33": {
+    "flags": [],
+    "n_verses": 73
+  },
+  "35": {
+    "flags": [],
+    "n_verses": 45
+  },
+  "36": {
+    "flags": [],
+    "n_verses": 83
+  },
+  "37": {
+    "flags": [],
+    "n_verses": 182
+  },
+  "38": {
+    "flags": [],
+    "n_verses": 88
+  },
+  "39": {
+    "flags": [],
+    "n_verses": 75
+  },
+  "41": {
+    "flags": [
+      {
+        "verse_key": "41:1",
+        "api_span_ms": [
+          0,
+          5880
+        ],
+        "transcribed_normalized": "تميم",
+        "canonical_normalized": "حمٓ",
+        "sim_self": 0.286,
+        "best_match_offset": 1,
+        "best_match_verse": "41:2",
+        "best_match_sim": 0.348,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 54
+  },
+  "43": {
+    "flags": [],
+    "n_verses": 89
+  },
+  "44": {
+    "flags": [],
+    "n_verses": 59
+  },
+  "45": {
+    "flags": [],
+    "n_verses": 37
+  },
+  "46": {
+    "flags": [],
+    "n_verses": 35
+  },
+  "50": {
+    "flags": [],
+    "n_verses": 45
+  },
+  "51": {
+    "flags": [],
+    "n_verses": 60
+  },
+  "52": {
+    "flags": [],
+    "n_verses": 49
+  },
+  "54": {
+    "flags": [],
+    "n_verses": 55
+  },
+  "55": {
+    "flags": [],
+    "n_verses": 78
+  },
+  "56": {
+    "flags": [],
+    "n_verses": 96
+  },
+  "64": {
+    "flags": [],
+    "n_verses": 18
+  },
+  "66": {
+    "flags": [],
+    "n_verses": 12
+  },
+  "70": {
+    "flags": [],
+    "n_verses": 44
+  },
+  "71": {
+    "flags": [],
+    "n_verses": 28
+  },
+  "72": {
+    "flags": [],
+    "n_verses": 28
+  },
+  "74": {
+    "flags": [],
+    "n_verses": 56
+  },
+  "76": {
+    "flags": [],
+    "n_verses": 31
+  },
+  "78": {
+    "flags": [],
+    "n_verses": 40
+  },
+  "82": {
+    "flags": [],
+    "n_verses": 19
+  },
+  "89": {
+    "flags": [],
+    "n_verses": 30
+  },
+  "90": {
+    "flags": [],
+    "n_verses": 20
+  },
+  "92": {
+    "flags": [],
+    "n_verses": 21
+  },
+  "96": {
+    "flags": [],
+    "n_verses": 19
+  },
+  "98": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "100": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "101": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "104": {
+    "flags": [],
+    "n_verses": 9
+  },
+  "1": {
+    "flags": [],
+    "n_verses": 7
+  },
+  "9": {
+    "flags": [],
+    "n_verses": 129
+  },
+  "10": {
+    "flags": [],
+    "n_verses": 109
+  },
+  "15": {
+    "flags": [],
+    "n_verses": 99
+  },
+  "18": {
+    "flags": [],
+    "n_verses": 110
+  },
+  "19": {
+    "flags": [
+      {
+        "verse_key": "19:91",
+        "api_span_ms": [
+          1384590,
+          1391830
+        ],
+        "transcribed_normalized": "",
+        "canonical_normalized": "اندعواللرحمنولدا",
+        "sim_self": 0.0,
+        "best_match_offset": 0,
+        "best_match_verse": "19:91",
+        "best_match_sim": 0.0,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 98
+  },
+  "20": {
+    "flags": [],
+    "n_verses": 135
+  },
+  "21": {
+    "flags": [],
+    "n_verses": 112
+  },
+  "24": {
+    "flags": [],
+    "n_verses": 64
+  },
+  "29": {
+    "flags": [],
+    "n_verses": 69
+  },
+  "30": {
+    "flags": [],
+    "n_verses": 60
+  },
+  "31": {
+    "flags": [],
+    "n_verses": 34
+  },
+  "32": {
+    "flags": [
+      {
+        "verse_key": "32:3",
+        "api_span_ms": [
+          25730,
+          63160
+        ],
+        "transcribed_normalized": "اميقولونافتراه",
+        "canonical_normalized": "اميقولونافتريهبلهوالحقمنربكلتنذرقومامآاتيهممننذيرمنقبلكلعلهميهتدون",
+        "sim_self": 0.346,
+        "best_match_offset": 0,
+        "best_match_verse": "32:3",
+        "best_match_sim": 0.346,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 30
+  },
+  "34": {
+    "flags": [],
+    "n_verses": 54
+  },
+  "40": {
+    "flags": [
+      {
+        "verse_key": "40:67",
+        "api_span_ms": [
+          1948560,
+          2016500
+        ],
+        "transcribed_normalized": "HeistheOnewhocreatedyoufromdust,thenfromsperm,thenfromaclasp,thenHewillbringyouforthachildثملتكونواشيوخاولعلكمتعكلون",
+        "canonical_normalized": "هوالذيخلقكممنترابثممننطفهثممنعلقهثميخرجكمطفلاثملتبلغوٓااشدكمثملتكونواشيوخاومنكممنيتوفيمنقبلولتبلغوٓااجلامسميولعلكمتعقلون",
+        "sim_self": 0.212,
+        "best_match_offset": 0,
+        "best_match_verse": "40:67",
+        "best_match_sim": 0.212,
+        "flag": "low_match"
+      }
+    ],
+    "n_verses": 85
+  },
+  "42": {
+    "flags": [],
+    "n_verses": 53
+  },
+  "47": {
+    "flags": [],
+    "n_verses": 38
+  },
+  "48": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "49": {
+    "flags": [],
+    "n_verses": 18
+  },
+  "53": {
+    "flags": [],
+    "n_verses": 62
+  },
+  "57": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "58": {
+    "flags": [],
+    "n_verses": 22
+  },
+  "59": {
+    "flags": [],
+    "n_verses": 24
+  },
+  "60": {
+    "flags": [],
+    "n_verses": 13
+  },
+  "61": {
+    "flags": [],
+    "n_verses": 14
+  },
+  "62": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "63": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "65": {
+    "flags": [],
+    "n_verses": 12
+  },
+  "67": {
+    "flags": [],
+    "n_verses": 30
+  },
+  "68": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "69": {
+    "flags": [],
+    "n_verses": 52
+  },
+  "73": {
+    "flags": [],
+    "n_verses": 20
+  },
+  "75": {
+    "flags": [],
+    "n_verses": 40
+  },
+  "77": {
+    "flags": [],
+    "n_verses": 50
+  },
+  "79": {
+    "flags": [],
+    "n_verses": 46
+  },
+  "80": {
+    "flags": [],
+    "n_verses": 42
+  },
+  "81": {
+    "flags": [],
+    "n_verses": 29
+  },
+  "83": {
+    "flags": [],
+    "n_verses": 36
+  },
+  "84": {
+    "flags": [],
+    "n_verses": 25
+  },
+  "85": {
+    "flags": [],
+    "n_verses": 22
+  },
+  "86": {
+    "flags": [],
+    "n_verses": 17
+  },
+  "87": {
+    "flags": [],
+    "n_verses": 19
+  },
+  "88": {
+    "flags": [],
+    "n_verses": 26
+  },
+  "91": {
+    "flags": [],
+    "n_verses": 15
+  },
+  "93": {
+    "flags": [],
+    "n_verses": 11
+  },
+  "94": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "95": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "97": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "99": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "102": {
+    "flags": [],
+    "n_verses": 8
+  },
+  "103": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "105": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "106": {
+    "flags": [],
+    "n_verses": 4
+  },
+  "107": {
+    "flags": [],
+    "n_verses": 7
+  },
+  "108": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "109": {
+    "flags": [],
+    "n_verses": 6
+  },
+  "110": {
+    "flags": [],
+    "n_verses": 3
+  },
+  "111": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "112": {
+    "flags": [],
+    "n_verses": 4
+  },
+  "113": {
+    "flags": [],
+    "n_verses": 5
+  },
+  "114": {
+    "flags": [],
+    "n_verses": 6
+  }
+}
