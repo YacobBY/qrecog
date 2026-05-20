@@ -11,7 +11,7 @@ def main():
     p.add_argument("--reload", action="store_true",
                    help="auto-reload on file changes (dev mode)")
     args = p.parse_args()
-    print(f"qrfix GUI on http://{args.host}:{args.port}")
+    print(f"qrecog GUI on http://{args.host}:{args.port}")
     uvicorn.run("web.app:app", host=args.host, port=args.port,
                 reload=args.reload)
 

@@ -1,5 +1,5 @@
 """
-qrfix web GUI -- FastAPI backend.
+qrecog web GUI -- FastAPI backend.
 
 Endpoints
     GET  /                              -> index.html
@@ -103,7 +103,7 @@ def _build_command(rid: int) -> list[str]:
             "--name", name, "--whisper-model", "large-v3"]
 
 
-def start_run(rid: int) -> RunState:
+def start_run(rid: int, loop: asyncio.AbstractEventLoop) -> RunState:
     if rid not in RECITERS:
         raise HTTPException(404, f"unknown reciter {rid}")
     with _runs_lock:
@@ -128,8 +128,7 @@ def start_run(rid: int) -> RunState:
             proc=proc,
             cmd=cmd,
         )
-        # Stash the asyncio loop so the reader thread can hand lines back.
-        state._loop = asyncio.get_event_loop()  # type: ignore[attr-defined]
+        state._loop = loop  # type: ignore[attr-defined]
         _runs[rid] = state
         threading.Thread(target=_reader_thread, args=(state,),
                          daemon=True).start()
@@ -140,7 +139,7 @@ def start_run(rid: int) -> RunState:
 # ---------------------------------------------------------------------------
 # FastAPI app
 # ---------------------------------------------------------------------------
-app = FastAPI(title="qrfix")
+app = FastAPI(title="qrecog")
 app.mount("/static", StaticFiles(directory=str(STATIC_DIR)), name="static")
 
 
@@ -190,8 +189,8 @@ def verse(rid: int, surah: int, verse: int):
 
 
 @app.post("/api/reciters/{rid}/run")
-def run(rid: int):
-    state = start_run(rid)
+async def run(rid: int):
+    state = start_run(rid, asyncio.get_running_loop())
     return {
         "reciter_id": state.reciter_id,
         "started_at": state.started_at,
