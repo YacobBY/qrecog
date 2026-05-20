@@ -217,14 +217,14 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# qrecog: heavy artifacts and per-tool state
-audio/
-data/
-reciters/
-repos/
-demo/
-logs/
-legacy/
-.claude/
-.idea/
-experiments/*.log
+# qrecog: heavy artifacts and per-tool state (anchored to repo root)
+/audio/
+/data/
+/reciters/
+/repos/
+/demo/
+/logs/
+/legacy/
+/.claude/
+/.idea/
+/experiments/*.log

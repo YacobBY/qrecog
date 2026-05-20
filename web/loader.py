@@ -281,8 +281,8 @@ def load_verse(rid: int, surah: int, verse: int) -> Optional[dict]:
         word_times.append({
             "i": i,
             "text": w,
-            "start_ms": int(seg[1]) if seg else None,
-            "end_ms": int(seg[2]) if seg else None,
+            "start_ms": int(seg[1]) if seg and len(seg) > 1 else None,
+            "end_ms":   int(seg[2]) if seg and len(seg) > 2 else None,
         })
     translation = ""
     for tr in (vrec.get("translations") or []):
